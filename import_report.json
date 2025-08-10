@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-08-09T16:26:46.363Z",
+  "summary": {
+    "totalRecords": 104,
+    "successCount": 99,
+    "skippedCount": 5,
+    "errorCount": 0
+  },
+  "skipped": [
+    {
+      "documentId": 89,
+      "fileName": "210_3_Test 1.pdf",
+      "reason": "File not found in uploads/temp"
+    },
+    {
+      "documentId": 197,
+      "fileName": "657_17_TEST INVOICE.pdf",
+      "reason": "File not found in uploads/temp"
+    },
+    {
+      "documentId": 198,
+      "fileName": "658_17_TEST LEGAL BILL.pdf",
+      "reason": "File not found in uploads/temp"
+    },
+    {
+      "documentId": 202,
+      "fileName": "664_24_TEST INVOICE.pdf",
+      "reason": "File not found in uploads/temp"
+    },
+    {
+      "documentId": 205,
+      "fileName": "668_24_TEST LEGAL BILL.pdf",
+      "reason": "File not found in uploads/temp"
+    }
+  ],
+  "errors": []
+}
